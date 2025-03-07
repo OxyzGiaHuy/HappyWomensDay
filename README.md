@@ -22,7 +22,7 @@ A delightful and interactive web project celebrating International Women's Day, 
 Check out the live demo here: [Happy Women's Day on Vercel](https://happy-womens-day-8-3.vercel.app/).
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/happy-womens-day.git
+   git clone https://github.com/OxyzGiaHuy/HappyWomensDay.git
    ```
 2. Open `index.html` in your browser.
 3. Click the **Open** button to reveal the message!
